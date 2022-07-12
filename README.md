@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in Rust, Elm (Elm-ui), Lua, Wasm, RISC-V and Web techonologies [HTTP(1/2/3), QUIC, etc.];
 - 🌱 I’m currently working on Systems Programming, Computer Architecture and Cryptocurrency;
-- 📣 I speak Portuguese, English, Brazilian Sign Language and Spanish;
+- 📣 I speak Portuguese, English and Brazilian Sign Language;
 - 🎮 I play chess, minetest(basic_robot automation) and other cool stuff;
 - 📫 Mail me: 2ejkoa2f1@relay.firefox.com.
